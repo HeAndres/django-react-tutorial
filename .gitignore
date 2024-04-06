@@ -2,6 +2,6 @@ env/*
 
 .env
 
-*.pyc
+**.pyc
 
 *.sqlite3
